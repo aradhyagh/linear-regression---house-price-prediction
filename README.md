@@ -42,6 +42,8 @@ python model.py
 
 _screenshot_
 
+![Model Accuracy](actualvspredict.jpeg)
+
 * * *
 
 📜 Dependencies
